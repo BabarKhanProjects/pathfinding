@@ -1,0 +1,26 @@
+.babar{
+	background-color:lightgray;
+	height:60px;
+	width:60px;
+	border:solid 10px white;
+
+}
+.graph{
+	width:900px;
+	margin-top:1em;
+}
+body{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+p{
+	font-size:2em;
+	text-align:center;
+}
+.closedSet{
+	color:white;
+}
+.obstructionSet{
+	background-color:orange;
+}
